@@ -32,6 +32,7 @@ I am an undergraduate student at **McGill University**, majoring in Agricultural
 I am currently working as a Research Assistant at the **Ministry of Agriculture and Rural Affairs** (China) and the **Beijing Academy of Agricultural and Forestry Sciences**, where I contribute to research on agricultural productivity and policy evaluation. Previously, I studied at **Peking University's Guanghua School of Management** as an exchange student.
 
 My recent research focuses on:
+
 - Carbon pricing policy impacts on green innovation
 - Agricultural total factor productivity (TFP) and spatial spillover effects
 - Applied econometric methods for policy evaluation

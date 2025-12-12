@@ -30,11 +30,7 @@
       "startDate": "2025-05-01",
       "endDate": "2025-12-31",
       "summary": "Contributing to research on agricultural productivity analysis, policy evaluation, and data-driven methods for agri-food systems.",
-      "highlights": [
-        "Agricultural productivity analysis",
-        "Policy impact assessment",
-        "Data-driven research"
-      ]
+      "highlights": ["Agricultural productivity analysis", "Policy impact assessment", "Data-driven research"]
     },
     {
       "name": "Beijing Academy of Agricultural and Forestry Sciences",
@@ -43,11 +39,7 @@
       "startDate": "2025-05-01",
       "endDate": "2025-12-31",
       "summary": "Conducting research on agricultural total factor productivity (TFP) and spatial spillover effects in Chinese agriculture using spatial econometric methods.",
-      "highlights": [
-        "Spatial econometric analysis",
-        "Agricultural TFP research",
-        "Spillover effects modeling"
-      ]
+      "highlights": ["Spatial econometric analysis", "Agricultural TFP research", "Spillover effects modeling"]
     }
   ],
   "education": [
@@ -60,12 +52,7 @@
       "startDate": "2023-08-01",
       "endDate": "2027-01-31",
       "score": "",
-      "courses": [
-        "Agricultural Economics",
-        "Applied Econometrics",
-        "Environmental Economics",
-        "Resource Economics"
-      ]
+      "courses": ["Agricultural Economics", "Applied Econometrics", "Environmental Economics", "Resource Economics"]
     },
     {
       "institution": "Peking University",
@@ -76,10 +63,7 @@
       "startDate": "2025-02-01",
       "endDate": "2025-06-30",
       "score": "",
-      "courses": [
-        "Agricultural Economics",
-        "Policy Analysis"
-      ]
+      "courses": ["Agricultural Economics", "Policy Analysis"]
     }
   ],
   "publications": [
@@ -103,22 +87,13 @@
       "name": "Econometrics",
       "level": "Intermediate",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Applied Econometrics",
-        "Spatial Econometrics",
-        "Causal Inference",
-        "Time Series Analysis"
-      ]
+      "keywords": ["Applied Econometrics", "Spatial Econometrics", "Causal Inference", "Time Series Analysis"]
     },
     {
       "name": "Programming",
       "level": "Intermediate",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "R",
-        "Stata",
-        "Python"
-      ]
+      "keywords": ["R", "Stata", "Python"]
     }
   ],
   "languages": [
@@ -137,32 +112,17 @@
     {
       "name": "Agricultural Economics",
       "icon": "fa-solid fa-seedling",
-      "keywords": [
-        "Agricultural Productivity",
-        "Total Factor Productivity",
-        "Agribusiness",
-        "Food Systems"
-      ]
+      "keywords": ["Agricultural Productivity", "Total Factor Productivity", "Agribusiness", "Food Systems"]
     },
     {
       "name": "Environmental Economics",
       "icon": "fa-solid fa-leaf",
-      "keywords": [
-        "Carbon Pricing",
-        "Climate Policy",
-        "Green Innovation",
-        "Sustainability"
-      ]
+      "keywords": ["Carbon Pricing", "Climate Policy", "Green Innovation", "Sustainability"]
     },
     {
       "name": "Applied Econometrics",
       "icon": "fa-solid fa-chart-bar",
-      "keywords": [
-        "Causal Inference",
-        "Spatial Econometrics",
-        "Machine Learning",
-        "Policy Evaluation"
-      ]
+      "keywords": ["Causal Inference", "Spatial Econometrics", "Machine Learning", "Policy Evaluation"]
     }
   ],
   "references": [
