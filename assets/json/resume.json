@@ -55,7 +55,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2023-08-01",
       "endDate": "2027-01-31",
-      "score": "3.38/4.00",
+      "score": "",
       "courses": ["Agricultural Economics", "Applied Econometrics", "Environmental Economics", "Computer Science (Minor)"]
     },
     {
@@ -66,7 +66,7 @@
       "studyType": "Visiting Student",
       "startDate": "2025-02-01",
       "endDate": "2025-06-30",
-      "score": "84/100",
+      "score": "",
       "courses": ["Agricultural Economics", "Policy Analysis"]
     },
     {
@@ -77,14 +77,14 @@
       "studyType": "Visiting Student",
       "startDate": "2024-05-01",
       "endDate": "2024-08-31",
-      "score": "4.0/4.0",
-      "courses": ["Cross-cultural exchange"]
+      "score": "",
+      "courses": ["Mathematics Training"]
     }
   ],
   "publications": [
     {
       "name": "Agricultural Productivity and its Spatial Spillover Effects in China",
-      "publisher": "Under Review at Journal of Integrative Agriculture (JIA)",
+      "publisher": "Working Paper",
       "releaseDate": "2025",
       "url": "https://doi.org/10.20944/preprints202510.2380.v1",
       "summary": "Authors: TANG Juk-Sen (Lead), LU Hongwei, GONG Tianyi, CHEN Junhong. Built an IV-LP-ACF-SAR framework to quantify provincial total factor productivity trajectories and spatial spillovers across China's 31 provinces (2014-2023)."
