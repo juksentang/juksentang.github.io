@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Juk-Sen Tang (唐煜燊)
+    - name: Alias
+      value: TANG, Yushen
     - name: Languages
-      value: English, Chinese (Mandarin)
+      value: Mandarin, Cantonese, Southwestern Mandarin, Hunanese (Native); English (Certified Translator); French (Conversational)
     - name: ORCID
       value: 0009-0009-8849-874X
 
@@ -15,32 +17,58 @@
       institution: McGill University, Montreal, QC, Canada
       year: 2023 - 2027
       description:
-        - Major in Agricultural Economics and Environment
+        - Major in Agricultural Economics and Environment; Minor in Computer Science
+        - GPA 3.38/4.00
         - Focus on applied econometrics and sustainability research
-    - title: Exchange Student
+    - title: Visiting Student
       institution: Guanghua School of Management, Peking University, Beijing, China
       year: 2025 (Feb - Jun)
       description:
+        - Grade 84/100
         - Studied business and economics courses
         - Focus on agricultural economics and policy analysis
+    - title: Visiting Student
+      institution: Nanjing University of Aeronautics and Astronautics, Nanjing, Jiangsu, China
+      year: 2024 (May - Aug)
+      description:
+        - GPA 4.0/4.0
+        - International education and cross-cultural exchange
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Ministry of Agriculture and Rural Affairs, China
+      institution: Key Lab of Urban Agriculture (North China), Ministry of Agriculture and Rural Affairs, Beijing Academy of Agricultural and Forestry Sciences, Beijing, China
       year: 2025 (May - Dec)
       description:
-        - Agricultural productivity analysis
-        - Policy evaluation and impact assessment
-        - Data-driven research on agri-food systems
-    - title: Research Assistant
-      institution: Beijing Academy of Agricultural and Forestry Sciences, Beijing, China
-      year: 2025 (May - Dec)
+        - Drafted policy briefs for the PRC 15th Five-Year Agricultural Plan and benchmarked Canada's agri-innovation model to inform national strategy
+        - Built spatial econometric datasets and dashboards supporting urban agriculture decision-making across North China municipalities
+        - Agricultural productivity analysis and policy evaluation
+    - title: Admissions Agent
+      institution: International Education College, Nanjing University of Aeronautics and Astronautics, Nanjing, Jiangsu, China
+      year: 2024 (May - Present)
       description:
-        - Spatial econometric analysis of agricultural systems
-        - Research on agricultural total factor productivity (TFP)
-        - Analysis of spatial spillover effects in Chinese agriculture
+        - Coordinate bilingual outreach, interview logistics, and enrollment reporting for international student recruitment
+
+- title: Research & Grants
+  type: time_table
+  contents:
+    - title: Agricultural Productivity and its Spatial Spillover Effects in China
+      institution: Under Review at Journal of Integrative Agriculture (JIA)
+      year: 2025
+      description:
+        - "Authors: TANG Juk-Sen (Lead), LU Hongwei, GONG Tianyi, CHEN Junhong"
+        - Built an IV-LP-ACF-SAR framework to quantify provincial total factor productivity trajectories and spatial spillovers across China's 31 provinces (2014-2023)
+    - title: Innovation Capability Enhancement Program
+      institution: Beijing Academy of Agricultural and Forestry Sciences
+      year: Grant No. KJCX20240404
+      description:
+        - Research grant supporting agricultural innovation studies
+    - title: Think Tank Cultivation Base Program
+      institution: Beijing Association for Science and Technology
+      year: Grant No. BJKX20240901
+      description:
+        - Research grant for policy analysis and think tank development
 
 - title: Research Interests
   type: nested_list
@@ -60,6 +88,41 @@
         - Causal inference methods
         - Spatial econometric modeling
         - Machine learning applications in economics
+
+- title: Skills
+  type: map
+  contents:
+    - name: Research & Analytics
+      value: Spatial econometrics; total factor productivity analysis; agricultural policy synthesis
+    - name: Programming
+      value: Python (Proficient); C/C++ (Proficient); MATLAB (Basic)
+    - name: Languages
+      value: Mandarin, Cantonese, Southwestern Mandarin, Hunanese (Native); English (Certified Translator); French (Conversational)
+    - name: Communications & Outreach
+      value: International admissions recruitment; bilingual translation; media coordination
+
+- title: Certificates
+  type: time_table
+  contents:
+    - title: CATTI International Translator & Interpreter Qualification
+      institution: China International Communications Group, Beijing, China
+      year: 2024 (Dec)
+      description:
+        - Professional certification for translation and interpretation
+
+- title: Professional Memberships
+  type: time_table
+  contents:
+    - title: Student Member
+      institution: Canadian Agricultural Economics Society (CAES)
+      year: 2025 (Sep - Present)
+      description:
+        - Active participation in agricultural economics research community
+    - title: Member
+      institution: Agricultural Economics Branch, Chinese Society of Technology Economics, Beijing, China
+      year: 2024 (Nov - Present)
+      description:
+        - Member of professional society for technology economics research
 
 - title: References
   type: list

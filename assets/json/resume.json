@@ -24,22 +24,26 @@
   },
   "work": [
     {
-      "name": "Ministry of Agriculture and Rural Affairs",
+      "name": "Key Lab of Urban Agriculture (North China), Ministry of Agriculture and Rural Affairs, Beijing Academy of Agricultural and Forestry Sciences",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2025-05-01",
       "endDate": "2025-12-31",
-      "summary": "Contributing to research on agricultural productivity analysis, policy evaluation, and data-driven methods for agri-food systems.",
-      "highlights": ["Agricultural productivity analysis", "Policy impact assessment", "Data-driven research"]
+      "summary": "Contributing to research on agricultural productivity and policy analysis for North China urban agriculture.",
+      "highlights": [
+        "Drafted policy briefs for the PRC 15th Five-Year Agricultural Plan and benchmarked Canada's agri-innovation model to inform national strategy",
+        "Built spatial econometric datasets and dashboards supporting urban agriculture decision-making across North China municipalities",
+        "Agricultural productivity analysis and policy evaluation"
+      ]
     },
     {
-      "name": "Beijing Academy of Agricultural and Forestry Sciences",
-      "position": "Research Assistant",
+      "name": "International Education College, Nanjing University of Aeronautics and Astronautics",
+      "position": "Admissions Agent",
       "url": "",
-      "startDate": "2025-05-01",
-      "endDate": "2025-12-31",
-      "summary": "Conducting research on agricultural total factor productivity (TFP) and spatial spillover effects in Chinese agriculture using spatial econometric methods.",
-      "highlights": ["Spatial econometric analysis", "Agricultural TFP research", "Spillover effects modeling"]
+      "startDate": "2024-05-01",
+      "endDate": "",
+      "summary": "International student recruitment and coordination.",
+      "highlights": ["Coordinate bilingual outreach, interview logistics, and enrollment reporting for international student recruitment"]
     }
   ],
   "education": [
@@ -51,60 +55,122 @@
       "studyType": "Bachelor of Science",
       "startDate": "2023-08-01",
       "endDate": "2027-01-31",
-      "score": "",
-      "courses": ["Agricultural Economics", "Applied Econometrics", "Environmental Economics", "Resource Economics"]
+      "score": "3.38/4.00",
+      "courses": ["Agricultural Economics", "Applied Econometrics", "Environmental Economics", "Computer Science (Minor)"]
     },
     {
       "institution": "Peking University",
       "location": "Beijing, China",
       "url": "https://www.pku.edu.cn/",
       "area": "Guanghua School of Management",
-      "studyType": "Exchange Student",
+      "studyType": "Visiting Student",
       "startDate": "2025-02-01",
       "endDate": "2025-06-30",
-      "score": "",
+      "score": "84/100",
       "courses": ["Agricultural Economics", "Policy Analysis"]
+    },
+    {
+      "institution": "Nanjing University of Aeronautics and Astronautics",
+      "location": "Nanjing, Jiangsu, China",
+      "url": "https://www.nuaa.edu.cn/",
+      "area": "International Education",
+      "studyType": "Visiting Student",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-31",
+      "score": "4.0/4.0",
+      "courses": ["Cross-cultural exchange"]
     }
   ],
   "publications": [
     {
-      "name": "Carbon Price Certainty and Green Innovation: Evidence from Canada's Federal Backstop Policy",
-      "publisher": "Preprints",
-      "releaseDate": "2024-11-24",
-      "url": "https://doi.org/10.20944/preprints202511.1753.v1",
-      "summary": "This study examines how carbon pricing policy certainty affects green innovation in Canada. Using data from Canada's Federal Backstop Policy implementation, we analyze the impact of policy certainty on firms' green technology investment and patent activities."
+      "name": "Agricultural Productivity and its Spatial Spillover Effects in China",
+      "publisher": "Under Review at Journal of Integrative Agriculture (JIA)",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.20944/preprints202510.2380.v1",
+      "summary": "Authors: TANG Juk-Sen (Lead), LU Hongwei, GONG Tianyi, CHEN Junhong. Built an IV-LP-ACF-SAR framework to quantify provincial total factor productivity trajectories and spatial spillovers across China's 31 provinces (2014-2023)."
     },
     {
-      "name": "Agricultural Productivity and its Spatial Spillover Effects in China",
-      "publisher": "Preprints",
-      "releaseDate": "2024-10-30",
-      "url": "https://doi.org/10.20944/preprints202510.2380.v1",
-      "summary": "This paper investigates agricultural total factor productivity (TFP) in China and examines spatial spillover effects across regions. Using spatial econometric methods, we analyze how productivity improvements in one region affect neighboring regions' agricultural performance."
+      "name": "Carbon Price Certainty and Green Innovation: Evidence from Canada's Federal Backstop Policy",
+      "publisher": "Working Paper",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.20944/preprints202511.1753.v1",
+      "summary": "This study examines how carbon pricing policy certainty affects green innovation in Canada. Using data from Canada's Federal Backstop Policy implementation, we analyze the impact of policy certainty on firms' green technology investment and patent activities."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Innovation Capability Enhancement Program",
+      "date": "Grant No. KJCX20240404",
+      "awarder": "Beijing Academy of Agricultural and Forestry Sciences",
+      "url": "",
+      "summary": "Research grant supporting agricultural innovation studies"
+    },
+    {
+      "title": "Think Tank Cultivation Base Program",
+      "date": "Grant No. BJKX20240901",
+      "awarder": "Beijing Association for Science and Technology",
+      "url": "",
+      "summary": "Research grant for policy analysis and think tank development"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CATTI International Translator & Interpreter Qualification",
+      "date": "2024-12-01",
+      "issuer": "China International Communications Group",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "skills": [
     {
-      "name": "Econometrics",
-      "level": "Intermediate",
+      "name": "Research & Analytics",
+      "level": "Advanced",
       "icon": "fa-solid fa-chart-line",
-      "keywords": ["Applied Econometrics", "Spatial Econometrics", "Causal Inference", "Time Series Analysis"]
+      "keywords": ["Spatial econometrics", "Total factor productivity analysis", "Agricultural policy synthesis"]
     },
     {
       "name": "Programming",
       "level": "Intermediate",
       "icon": "fa-solid fa-code",
-      "keywords": ["R", "Stata", "Python"]
+      "keywords": ["Python (Proficient)", "C/C++ (Proficient)", "MATLAB (Basic)"]
+    },
+    {
+      "name": "Communications & Outreach",
+      "level": "Advanced",
+      "icon": "fa-solid fa-bullhorn",
+      "keywords": ["International admissions recruitment", "Bilingual translation", "Media coordination"]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin",
+      "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "Chinese (Mandarin)",
+      "language": "Cantonese",
       "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Southwestern Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hunanese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Certified Translator",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Conversational",
       "icon": ""
     }
   ],
