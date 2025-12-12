@@ -1,14 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
+# GitHub users to display repositories for
+github_users: []
 
+# Maximum number of lines to display for repository descriptions
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# Specific GitHub repositories to display
+github_repos: []
