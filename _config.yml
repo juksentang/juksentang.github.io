@@ -12,10 +12,11 @@ contact_note: >
   The fastest way to reach me is by email. I also respond to messages on LinkedIn.
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Juk-Sen Tang (唐煜燊) is an agricultural economist working at the intersection of agribusiness,
-  environmental & resource economics, and applied econometrics. His research focuses on agricultural
-  productivity, land-use and climate policy, and data-driven methods for evaluating sustainability
-  and innovation in agri-food systems.
+  Juk-Sen Tang (唐煜燊) is an undergraduate student at McGill University majoring in Agricultural and
+  Environmental Sciences. His research interests lie at the intersection of agricultural economics,
+  agribusiness, environmental and resource economics, and applied econometrics. He has worked on topics
+  including carbon pricing policy impacts on green innovation, agricultural productivity, and spatial
+  spillover effects in Chinese agriculture.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -86,7 +87,7 @@ bing_site_verification:
 # -----------------------------------------------------------------------------
 
 blog_name: "al-folio"
-blog_description: "Notes on agricultural economics, sustainability, and applied econometrics."
+blog_description: "Notes on agricultural economics, applied econometrics, and sustainability research."
 permalink: /blog/:year/:title/
 lsi: false
 
