@@ -1,6 +1,6 @@
 module Jekyll
   module TOC
-    class Tag < Liquid::Block
+    class Tag < Liquid::Tag
       def initialize(tag_name, markup, tokens)
         super
       end
