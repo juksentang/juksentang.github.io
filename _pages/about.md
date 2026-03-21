@@ -33,7 +33,7 @@ I am currently a Research Assistant at the **Key Lab of Urban Agriculture (North
 
 My recent research focuses on:
 
-- Agricultural total factor productivity (TFP) and spatial spillover effects ([published in *Agriculture*](https://doi.org/10.3390/agriculture16050543))
+- Agricultural total factor productivity (TFP) and spatial spillover effects ([published in _Agriculture_](https://doi.org/10.3390/agriculture16050543))
 - Carbon pricing policy certainty and green innovation
 - Causal machine learning for governance and policy evaluation
 - Urban scaling laws and regional economic coordination
