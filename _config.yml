@@ -12,19 +12,21 @@ contact_note: >
   The fastest way to reach me is by email. I also respond to messages on LinkedIn.
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Juk-Sen Tang (唐煜燊) is an undergraduate student at McGill University majoring in Agricultural and
-  Environmental Sciences. His research interests lie at the intersection of agricultural economics,
-  agribusiness, environmental and resource economics, and applied econometrics. He has worked on topics
-  including carbon pricing policy impacts on green innovation, agricultural productivity, and spatial
-  spillover effects in Chinese agriculture.
+  Juk-Sen Tang (唐煜燊) is an undergraduate student at McGill University studying Agricultural
+  Economics with a minor in Computer Science. His research spans agricultural economics,
+  environmental and resource economics, and applied econometrics. He has published on agricultural
+  productivity and spatial spillover effects in China, and has working papers on carbon pricing
+  and green innovation, causal machine learning for policy evaluation, urban scaling laws, and
+  food safety classification.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 keywords: >
-  agricultural economics, agribusiness, environmental and resource economics, applied econometrics,
-  productivity, TFP, land-use policy, climate policy, causal inference, machine learning, spatial econometrics
+  agricultural economics, environmental and resource economics, applied econometrics,
+  productivity, TFP, climate policy, causal inference, causal machine learning, spatial econometrics,
+  carbon pricing, green innovation, urban scaling laws, food safety, governance
 
 lang: en
 icon: ⚛️

@@ -6,7 +6,7 @@
     "email": "juksen.tang@mail.mcgill.ca",
     "phone": "",
     "url": "https://juksentang.github.io",
-    "summary": "Undergraduate student at McGill University with research interests in agricultural economics, environmental economics, and applied econometrics. Currently working on carbon pricing policy impacts and agricultural productivity analysis.",
+    "summary": "Undergraduate student at McGill University pursuing a B.Sc. in Agricultural Economics with a minor in Computer Science. Research interests span agricultural economics, environmental and resource economics, and applied econometrics. Published in Agriculture on agricultural productivity and spatial spillover effects, with working papers on carbon pricing and green innovation, causal machine learning for policy evaluation, urban scaling laws, and food safety classification.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,16 +28,15 @@
       "position": "Research Assistant",
       "url": "",
       "startDate": "2025-05-01",
-      "endDate": "2025-12-31",
+      "endDate": "",
       "summary": "Contributing to research on agricultural productivity and policy analysis for North China urban agriculture.",
       "highlights": [
-        "Drafted policy briefs for the PRC 15th Five-Year Agricultural Plan and benchmarked Canada's agri-innovation model to inform national strategy",
-        "Built spatial econometric datasets and dashboards supporting urban agriculture decision-making across North China municipalities",
-        "Agricultural productivity analysis and policy evaluation"
+        "Drafted policy briefs for the PRC 15th Five-Year Agricultural Plan, focusing on regional economic coordination and benchmarking Canada's agricultural science and technology innovation systems to inform domestic policy",
+        "Built spatial econometric datasets and analysed TFP-based coordination patterns across Beijing-Tianjin-Hebei, identifying technology spillover, efficiency drag, and scale synergy channels to inform regional integration policy"
       ]
     },
     {
-      "name": "International Education College, Nanjing University of Aeronautics and Astronautics",
+      "name": "International Education College, NUAA",
       "position": "Admissions Agent",
       "url": "",
       "startDate": "2024-05-01",
@@ -46,12 +45,22 @@
       "highlights": ["Coordinate bilingual outreach, interview logistics, and enrollment reporting for international student recruitment"]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Chinese Students & Scholars Association (CSSA), McGill University",
+      "position": "Secretary",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "summary": "Cross-campus communications, budgeting, and event planning for 400+ students"
+    }
+  ],
   "education": [
     {
       "institution": "McGill University",
       "location": "Montreal, QC, Canada",
       "url": "https://www.mcgill.ca/",
-      "area": "Agricultural & Environmental Sciences",
+      "area": "Agricultural Economics (Agricultural & Environmental Sciences); Minor in Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2023-08-01",
       "endDate": "2027-01-31",
@@ -67,10 +76,10 @@
       "startDate": "2025-02-01",
       "endDate": "2025-06-30",
       "score": "",
-      "courses": ["Agricultural Economics", "Policy Analysis"]
+      "courses": []
     },
     {
-      "institution": "Nanjing University of Aeronautics and Astronautics",
+      "institution": "Nanjing University of Aeronautics and Astronautics (NUAA)",
       "location": "Nanjing, Jiangsu, China",
       "url": "https://www.nuaa.edu.cn/",
       "area": "International Education",
@@ -78,39 +87,44 @@
       "startDate": "2024-05-01",
       "endDate": "2024-08-31",
       "score": "",
-      "courses": ["Mathematics Training"]
+      "courses": []
     }
   ],
   "publications": [
     {
-      "name": "Agricultural Productivity and its Spatial Spillover Effects in China",
-      "publisher": "Working Paper",
-      "releaseDate": "2025",
-      "url": "https://doi.org/10.20944/preprints202510.2380.v1",
-      "summary": "Authors: TANG Juk-Sen (Lead), LU Hongwei, GONG Tianyi, CHEN Junhong. Built an IV-LP-ACF-SAR framework to quantify provincial total factor productivity trajectories and spatial spillovers across China's 31 provinces (2014-2023)."
+      "name": "Agricultural Productivity and Its Spatial Spillover Effects in China",
+      "publisher": "Agriculture, 2026, 16(5), 543",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.3390/agriculture16050543",
+      "summary": "Authors: TANG Juk-Sen (Lead), LU Hongwei, GONG Tianyi, CHEN Junhong. Estimated provincial agricultural TFP across 31 Chinese provinces (2014–2023) using a novel IV-LP-ACF-SAR framework."
+    },
+    {
+      "name": "Causal Machine Learning Reveals Divergent Effectiveness of Governance Modes for Sustainable Agricultural Transformation",
+      "publisher": "Preprint",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.20944/preprints202603.0372.v1",
+      "summary": "Authors: TANG Juk-Sen (Lead), ZHANG Haobo, SHAN Lily, CHEN Junhong. Applied Causal Forest with DML to three policy reforms across 2,700+ Chinese counties."
+    },
+    {
+      "name": "Scaling Laws, Poverty Traps, and the Urbanization Crossover in Chinese County Economies",
+      "publisher": "Preprint",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.20944/preprints202603.0443.v1",
+      "summary": "Author: TANG Juk-Sen (Sole Author). Estimated sector-specific urban scaling exponents for approximately 2,800 Chinese counties (2000–2023)."
+    },
+    {
+      "name": "Are Food Safety Classifiers Learning Hazards or Memorizing Firms? Entity-Level Leakage in FDA Recall Severity Prediction",
+      "publisher": "Preprint",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.20944/preprints202603.0343.v1",
+      "summary": "Authors: LI Peilun, TANG Juk-Sen (Corresponding Author). Benchmarked ML classifiers on 28,448 FDA recall records."
     },
     {
       "name": "Carbon Price Certainty and Green Innovation: Evidence from Canada's Federal Backstop Policy",
-      "publisher": "Working Paper",
+      "publisher": "Preprint",
       "releaseDate": "2025",
       "url": "https://doi.org/10.20944/preprints202511.1753.v1",
-      "summary": "This study examines how carbon pricing policy certainty affects green innovation in Canada. Using data from Canada's Federal Backstop Policy implementation, we analyze the impact of policy certainty on firms' green technology investment and patent activities."
-    }
-  ],
-  "awards": [
-    {
-      "title": "Innovation Capability Enhancement Program",
-      "date": "KJCX20240404",
-      "awarder": "Beijing Academy of Agricultural and Forestry Sciences",
-      "url": "",
-      "summary": "Research grant supporting agricultural innovation studies"
-    },
-    {
-      "title": "Think Tank Cultivation Base Program",
-      "date": "BJKX20240901",
-      "awarder": "Beijing Association for Science and Technology",
-      "url": "",
-      "summary": "Research grant for policy analysis and think tank development"
+      "summary": "Author: TANG Juk-Sen (Sole Author). Exploited Alberta's 2019 backstop adoption as a natural experiment across 1,381 firms."
     }
   ],
   "certificates": [
@@ -130,13 +144,13 @@
       "keywords": ["Spatial econometrics", "Total factor productivity analysis", "Agricultural policy synthesis"]
     },
     {
-      "name": "Programming",
+      "name": "Tools & Programming",
       "level": "Intermediate",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python (Proficient)", "C/C++ (Proficient)", "MATLAB (Basic)"]
+      "keywords": ["Python", "C/C++", "Stata", "R", "MATLAB", "GeoDa", "EconML", "scikit-learn", "ArcGIS/QGIS"]
     },
     {
-      "name": "Communications & Outreach",
+      "name": "Communications",
       "level": "Advanced",
       "icon": "fa-solid fa-bullhorn",
       "keywords": ["International admissions recruitment", "Bilingual translation", "Media coordination"]
@@ -165,7 +179,7 @@
     },
     {
       "language": "English",
-      "fluency": "Certified Translator",
+      "fluency": "Professional, CATTI-certified",
       "icon": ""
     },
     {
@@ -178,7 +192,7 @@
     {
       "name": "Agricultural Economics",
       "icon": "fa-solid fa-seedling",
-      "keywords": ["Agricultural Productivity", "Total Factor Productivity", "Agribusiness", "Food Systems"]
+      "keywords": ["Agricultural Productivity", "Total Factor Productivity", "Governance Modes", "Sustainable Transformation"]
     },
     {
       "name": "Environmental Economics",
@@ -188,7 +202,7 @@
     {
       "name": "Applied Econometrics",
       "icon": "fa-solid fa-chart-bar",
-      "keywords": ["Causal Inference", "Spatial Econometrics", "Machine Learning", "Policy Evaluation"]
+      "keywords": ["Causal Inference", "Causal Machine Learning", "Spatial Econometrics", "Urban Scaling Laws"]
     }
   ],
   "references": [

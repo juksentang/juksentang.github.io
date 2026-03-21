@@ -3,69 +3,82 @@
   contents:
     - name: Full Name
       value: Juk-Sen Tang (唐煜燊)
-    - name: Alias
+    - name: Also Known As
       value: TANG, Yushen
+    - name: Secondary Email
+      value: tangyushen@cste.org.cn
     - name: Languages
-      value: Mandarin, Cantonese, Southwestern Mandarin, Hunanese (Native); English (Certified Translator); French (Conversational)
+      value: Mandarin, Cantonese, Southwestern Mandarin, Hunanese (Native); English (Professional, CATTI-certified); French (Conversational)
     - name: ORCID
       value: 0009-0009-8849-874X
 
 - title: Education
   type: time_table
   contents:
-    - title: B.Sc. in Agricultural & Environmental Sciences
+    - title: B.Sc. Agricultural Economics (Agricultural & Environmental Sciences)
       institution: McGill University, Montreal, QC, Canada
-      year: 2023 - 2027
+      year: Aug 2023 – Jan 2027 (expected)
       description:
-        - Major in Agricultural Economics and Environment; Minor in Computer Science
-        - Focus on applied econometrics and sustainability research
+        - Minor in Computer Science
     - title: Visiting Student
       institution: Guanghua School of Management, Peking University, Beijing, China
-      year: 2025 (Feb - Jun)
-      description:
-        - Studied business and economics courses
-        - Focus on agricultural economics and policy analysis
+      year: Feb 2025 – Jun 2025
     - title: Visiting Student
-      institution: Nanjing University of Aeronautics and Astronautics, Nanjing, Jiangsu, China
-      year: 2024 (May - Aug)
-      description:
-        - Mathematics training and coursework
+      institution: Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, Jiangsu, China
+      year: May 2024 – Aug 2024
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
       institution: Key Lab of Urban Agriculture (North China), Ministry of Agriculture and Rural Affairs, Beijing Academy of Agricultural and Forestry Sciences, Beijing, China
-      year: 2025 (May - Dec)
+      year: May 2025 – Present
       description:
-        - Drafted policy briefs for the PRC 15th Five-Year Agricultural Plan and benchmarked Canada's agri-innovation model to inform national strategy
-        - Built spatial econometric datasets and dashboards supporting urban agriculture decision-making across North China municipalities
-        - Agricultural productivity analysis and policy evaluation
+        - Drafted policy briefs for the PRC 15th Five-Year Agricultural Plan, focusing on regional economic coordination and benchmarking Canada's agricultural science and technology innovation systems to inform domestic policy
+        - Built spatial econometric datasets and analysed TFP-based coordination patterns across Beijing-Tianjin-Hebei, identifying technology spillover, efficiency drag, and scale synergy channels to inform regional integration policy
     - title: Admissions Agent
-      institution: International Education College, Nanjing University of Aeronautics and Astronautics, Nanjing, Jiangsu, China
-      year: 2024 (May - Present)
+      institution: International Education College, NUAA, Nanjing, Jiangsu, China
+      year: May 2024 – Present
       description:
         - Coordinate bilingual outreach, interview logistics, and enrollment reporting for international student recruitment
 
-- title: Research & Grants
+- title: Publications
   type: time_table
   contents:
-    - title: Agricultural Productivity and its Spatial Spillover Effects in China
-      institution: Working Paper
-      year: 2025
+    - title: Agricultural Productivity and Its Spatial Spillover Effects in China
+      institution: "Agriculture, 2026, 16(5), 543"
+      year: 2026
       description:
         - "Authors: TANG Juk-Sen (Lead), LU Hongwei, GONG Tianyi, CHEN Junhong"
-        - Built an IV-LP-ACF-SAR framework to quantify provincial total factor productivity trajectories and spatial spillovers across China's 31 provinces (2014-2023)
-    - title: Innovation Capability Enhancement Program
-      institution: Beijing Academy of Agricultural and Forestry Sciences
-      year: KJCX20240404
+        - Estimated provincial agricultural TFP across 31 Chinese provinces (2014–2023) using a novel IV-LP-ACF-SAR framework; identified mechanization as the dominant output driver and significant negative spatial spillovers in scale efficiency
+
+- title: Working Papers
+  type: time_table
+  contents:
+    - title: "Causal Machine Learning Reveals Divergent Effectiveness of Governance Modes for Sustainable Agricultural Transformation"
+      institution: Preprint
+      year: 2026
       description:
-        - Research grant supporting agricultural innovation studies
-    - title: Think Tank Cultivation Base Program
-      institution: Beijing Association for Science and Technology
-      year: BJKX20240901
+        - "Authors: TANG Juk-Sen (Lead), ZHANG Haobo, SHAN Lily, CHEN Junhong"
+        - Applied Causal Forest with DML to three policy reforms across 2,700+ Chinese counties; showed that governance design, not fiscal magnitude, determines effectiveness
+    - title: "Scaling Laws, Poverty Traps, and the Urbanization Crossover in Chinese County Economies"
+      institution: Preprint
+      year: 2026
       description:
-        - Research grant for policy analysis and think tank development
+        - "Author: TANG Juk-Sen (Sole Author)"
+        - Estimated sector-specific urban scaling exponents for approximately 2,800 Chinese counties (2000–2023); identified an urbanization crossover threshold and persistent scaling deficits in 832 designated poverty counties
+    - title: "Are Food Safety Classifiers Learning Hazards or Memorizing Firms? Entity-Level Leakage in FDA Recall Severity Prediction"
+      institution: Preprint
+      year: 2026
+      description:
+        - "Authors: LI Peilun, TANG Juk-Sen (Corresponding Author)"
+        - Benchmarked ML classifiers on 28,448 FDA recall records; exposed that 92% of apparent performance stems from firm-level memorization and proposed group-aware evaluation protocols
+    - title: "Carbon Price Certainty and Green Innovation: Evidence from Canada's Federal Backstop Policy"
+      institution: Preprint
+      year: 2025
+      description:
+        - "Author: TANG Juk-Sen (Sole Author)"
+        - Exploited Alberta's 2019 backstop adoption as a natural experiment across 1,381 firms; found that legislative clarification, not announcement, drives green patenting
 
 - title: Research Interests
   type: nested_list
@@ -91,11 +104,11 @@
   contents:
     - name: Research & Analytics
       value: Spatial econometrics; total factor productivity analysis; agricultural policy synthesis
-    - name: Programming
-      value: Python (Proficient); C/C++ (Proficient); MATLAB (Basic)
+    - name: Tools & Programming
+      value: Python (spatial econometrics, causal forest, data pipelines); C/C++; Stata; R; MATLAB; GeoDa; EconML; scikit-learn; ArcGIS/QGIS
     - name: Languages
-      value: Mandarin, Cantonese, Southwestern Mandarin, Hunanese (Native); English (Certified Translator); French (Conversational)
-    - name: Communications & Outreach
+      value: Mandarin, Cantonese, Southwestern Mandarin & Hunanese (Native); English (Professional, CATTI-certified); French (Conversational)
+    - name: Communications
       value: International admissions recruitment; bilingual translation; media coordination
 
 - title: Certificates
@@ -120,6 +133,15 @@
       year: 2024 (Nov - Present)
       description:
         - Member of professional society for technology economics research
+
+- title: Leadership & Service
+  type: time_table
+  contents:
+    - title: Secretary
+      institution: Chinese Students & Scholars Association (CSSA), McGill University, Montreal, QC, Canada
+      year: Sep 2023 – Present
+      description:
+        - Cross-campus communications, budgeting, and event planning for 400+ students
 
 - title: References
   type: list

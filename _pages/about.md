@@ -27,15 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at **McGill University**, majoring in Agricultural and Environmental Sciences. My research interests lie at the intersection of **agricultural economics**, **agribusiness**, **environmental and resource economics**, and **applied econometrics**.
+I am an undergraduate student at **McGill University**, pursuing a B.Sc. in Agricultural Economics within the Faculty of Agricultural and Environmental Sciences, with a minor in Computer Science. My research interests lie at the intersection of **agricultural economics**, **environmental and resource economics**, and **applied econometrics**.
 
-I am currently working as a Research Assistant at the **Ministry of Agriculture and Rural Affairs** (China) and the **Beijing Academy of Agricultural and Forestry Sciences**, where I contribute to research on agricultural productivity and policy evaluation. Previously, I studied at **Peking University's Guanghua School of Management** as an exchange student.
+I am currently a Research Assistant at the **Key Lab of Urban Agriculture (North China)**, Ministry of Agriculture and Rural Affairs / **Beijing Academy of Agricultural and Forestry Sciences**, where I contribute to research on agricultural productivity and policy evaluation. Previously, I studied at **Peking University's Guanghua School of Management** as a visiting student. I also serve as Secretary of the **Chinese Students & Scholars Association (CSSA)** at McGill University.
 
 My recent research focuses on:
 
-- Carbon pricing policy impacts on green innovation
-- Agricultural total factor productivity (TFP) and spatial spillover effects
-- Applied econometric methods for policy evaluation
-- Sustainability and innovation in agri-food systems
-
-I am passionate about using data-driven approaches to address challenges in agricultural economics and environmental policy.
+- Agricultural total factor productivity (TFP) and spatial spillover effects ([published in *Agriculture*](https://doi.org/10.3390/agriculture16050543))
+- Carbon pricing policy certainty and green innovation
+- Causal machine learning for governance and policy evaluation
+- Urban scaling laws and regional economic coordination
+- Machine learning evaluation methodology in food safety
